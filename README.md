@@ -1,6 +1,6 @@
 # Greetings!
 # About Me
-## Skills
+## Stack
   <img src="https://skillicons.dev/icons?i=python,rust,javascript,go,html,css,sqlite" />
   <img src="https://skillicons.dev/icons?i=idea,neovim,git,github" />
   <img src="https://skillicons.dev/icons?i=linux,qt,django" />
