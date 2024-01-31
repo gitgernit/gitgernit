@@ -1,4 +1,4 @@
-### Greetings!
+# Greetings!
 # About Me
 ## Skills
   <img src="https://skillicons.dev/icons?i=python,rust,javascript,go,html,css,sqlite" />
