@@ -1,8 +1,9 @@
 # Greetings!
 ## My stack:
   <img src="https://skillicons.dev/icons?i=python,rust,javascript,go,html,css,sqlite" />
-  <img src="https://skillicons.dev/icons?i=idea,neovim,git,github" />
-  <img src="https://skillicons.dev/icons?i=linux,qt,django" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=idea,neovim" />
+  <img src="https://skillicons.dev/icons?i=qt,django" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gitgernit&theme=calm-pink&border_radius=15.5&hide_longest_streak=true)](https://git.io/streak-stats)
 
