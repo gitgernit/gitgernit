@@ -1,5 +1,5 @@
 # Greetings!
-## My stack:
+## My tech-stack:
   <img src="https://skillicons.dev/icons?i=python,rust,javascript,go,html,css,sqlite" />
   <img src="https://skillicons.dev/icons?i=linux,git,github" />
   <img src="https://skillicons.dev/icons?i=idea,neovim" />
