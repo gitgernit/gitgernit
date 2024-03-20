@@ -1,6 +1,6 @@
 # Greetings!
 ## My tech-stack:
-  <img src="https://skillicons.dev/icons?i=python,rust,javascript,html,css,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,sqlite" />
   <img src="https://skillicons.dev/icons?i=linux,git,github" />
   <img src="https://skillicons.dev/icons?i=idea,neovim" />
   <img src="https://skillicons.dev/icons?i=qt,django" />
