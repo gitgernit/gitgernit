@@ -1,6 +1,6 @@
 # Greetings!
 ## My tech-stack:
-  <img src="https://skillicons.dev/icons?i=python,js,bash,sqlite,postgres,redis,html,css,docker" />
+  <img src="https://skillicons.dev/icons?i=python,go,js,bash,sqlite,postgres,redis,html,css,docker" />
   <img src="https://skillicons.dev/icons?i=linux,nix,arch,raspberrypi,git,github,gitlab" />
   <img src="https://skillicons.dev/icons?i=pycharm,neovim,obsidian" />
   <img src="https://skillicons.dev/icons?i=qt,django,react,bootstrap" />(And, most importantly - I can google!)
