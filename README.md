@@ -1,9 +1,9 @@
 # Greetings!
 ## My tech-stack:
-  <img src="https://skillicons.dev/icons?i=python,go,js,bash,sqlite,postgres,redis,html,css,docker" />
-  <img src="https://skillicons.dev/icons?i=linux,nix,arch,raspberrypi,git,github,gitlab" />
-  <img src="https://skillicons.dev/icons?i=pycharm,neovim,obsidian" />
-  <img src="https://skillicons.dev/icons?i=qt,django,react,bootstrap" />(And, most importantly - I can google!)
+  <img src="https://skillicons.dev/icons?i=python,go,js,bash,sqlite,postgres,redis,html,css,md,docker,nginx" />
+  <img src="https://skillicons.dev/icons?i=linux,nix,arch,raspberrypi,git,github,gitlab,stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=pycharm,neovim,obsidian,postman" />
+  <img src="https://skillicons.dev/icons?i=qt,django,react,bootstrap,sass" />(And, most importantly - I can google!)
 
 <details>
   <summary>Reach out to me:</summary>
